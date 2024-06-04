@@ -4,7 +4,7 @@
 
 <img align="center" alt="Coding" width ="1000" src="https://firebasestorage.googleapis.com/v0/b/mogha-266d4.appspot.com/o/photos%2Fcover.png?alt=media&token=2d654509-83aa-4c25-b874-fca3809ec00e">
 
-- 🔭 I’m currently working as a **Software Engineer 💻** | **Mobile Application Developer 📱** | **Instructor** .
+- 🔭 I’m currently working as a **Software Engineer 💻** | **Mobile Application Developer 📱** | **Instructor At Under Control** .
 
 - 🌱 I’m currently learning **Advanced Flutter**.
 
