@@ -3,6 +3,7 @@
 <!-- <h3 align="center">Student at the Faculty of Computer Science & Artificial Intelligence, highly dedicated to mobile development with a particular focus on Flutter. Have a passion for learning and innovation, a strong work ethic. and an unwavering commitment to excellence </h3> -->
 <!--
 <img align="center" alt="Coding" width ="1000" src="https://firebasestorage.googleapis.com/v0/b/mogha-266d4.appspot.com/o/photos%2Fcover.png?alt=media&token=2d654509-83aa-4c25-b874-fca3809ec00e"> -->
+<img align="center" alt="Coding" width ="1000" src="https://github.com/AbdelmenamAdel/Shopify/blob/master/assets/images/4.png">
 
 ## 🙋‍♂️ About Me:
 - 🔭 I’m currently working as a **Software Engineer 💻** | **Mobile Application Developer 📱** | **Instructor** .
