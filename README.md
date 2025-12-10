@@ -6,7 +6,7 @@
 <img align="center" alt="Coding" width ="1000" src="https://github.com/AbdelmenamAdel/Shopify/blob/master/assets/images/2.png">
 
 ## 🙋‍♂️ About Me:
-- 🔭 I’m currently working as a **Software Engineer 💻** | **Mobile Application Developer 📱** | **Instructor** .
+- 🔭 I’m currently working as a **Software Engineer 💻** | **Mobile Application Developer 📱** | **Fluttert Instructor | Flutter Coach @Ministry of Communications and Information Technology (MCIT)** .
 
 - 🌱 I’m currently learning **Advanced Flutter**.
 
