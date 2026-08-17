@@ -2,13 +2,13 @@
 
 # 💻 ABDELMONEIM ADEL
 
-### Senior Flutter Engineer • AI / ML Specialist • Technical Instructor
+### Mid-Level Flutter Developer • AI/ML Engineer • Technical Coding Instructor
 
-**Egypt 🇪🇬 | Building Scalable Cross-Platform Ecosystems & AI Solutions**
+**Egypt 🇪🇬 | Flutter • Dart • BLoC • Clean Architecture • AI/ML**
 
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Outfit&size=23&center=true&vCenter=true&width=750&height=50&duration=3500&lines=Hi+There!+👋+I'm+Abdelmoneim+Adel!+🚀;Senior+Flutter+Engineer+%26+Mobile+Architect+📱;AI%2FML+Specialist+%26+Systems+Architect+🤖;Mobile+Application+Coach+%40+MCIT+(DEPI)+👨‍🏫;Architect+of+Athkary+(3K%2B+Users)+%26+DiaMate+⚡" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Outfit&size=23&center=true&vCenter=true&width=750&height=50&duration=3500&lines=Hi+There!+👋+I'm+Abdelmoneim+Adel!+😎;Mid-Level+Flutter+Developer+(3.5%2B+Years)+📱;AI%2FML+Engineer+%7C+B.Sc.+Artificial+Intelligence+🎓;Mobile+Application+Coach+%40+MCIT+(DEPI)+👨‍🏫;Building+Scalable+Mobile+Applications+%26+AI+Solutions+🚀" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,32 +16,27 @@
   <a href="https://flutter.dev">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
   </a>
+
   <a href="https://dart.dev">
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
   </a>
+
   <a href="https://python.org">
     <img src="https://img.shields.io/badge/AI%2FML-Engine-1ABC9C?style=for-the-badge&logo=python&logoColor=white" alt="AI/ML">
   </a>
+
   <a href="https://flutter.dev">
     <img src="https://img.shields.io/badge/Architecture-Clean_Architecture-10B981?style=for-the-badge" alt="Clean Architecture">
   </a>
+
   <a href="https://bloclibrary.dev">
     <img src="https://img.shields.io/badge/State_Management-BLoC_%2F_Cubit-6C3483?style=for-the-badge" alt="BLoC / Cubit">
   </a>
+
   <a href="https://mcit.gov.eg">
     <img src="https://img.shields.io/badge/MCIT-Flutter_Coach-F97316?style=for-the-badge" alt="MCIT Instructor">
   </a>
 </p>
-
-</div>
-
----
-
-## ⚡ Executive Summary
-
-Senior Mobile Engineer & AI Specialist specializing in high-performance **Flutter**, **Dart**, and **Artificial Intelligence**. Expert in designing production-grade cross-platform applications with **Clean Architecture**, **BLoC / Cubit**, **Offline-First Engines (Hive, SQLite)**, and **Multi-Provider AI & RAG Pipelines**. 
-
-Technical Instructor & Mobile Application Coach @ **Ministry of Communications & Information Technology (MCIT)**, coaching state-sponsored initiatives (DEPI) and mentoring developers across international programs.
 
 ---
 
