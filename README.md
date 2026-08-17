@@ -74,11 +74,6 @@
 
 <div align="center">
 
-<a href="https://github.com/AbdelmenamAdel">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdelmenamAdel&bg_color=0D1117&color=2FBCF7&line=2FBCF7&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Abdelmoneim's GitHub Activity Graph" />
-</a>
-
-<br /><br />
  <a href="https://github.com/AbdelmenamAdel">
     <img
       src="https://github-readme-activity-graph.vercel.app/graph?username=AbdelmenamAdel&bg_color=0D1117&color=2FBCF7&line=2FBCF7&point=FFFFFF&area=true&hide_border=true"
@@ -87,8 +82,10 @@
     />
   </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbdelmenamAdel&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+<br /><br />
 
+
+<img src="https://github-stats-extended.vercel.app/api?username=AbdelmenamAdel&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="Abdelmoneim's GitHub Stats" />
 ---
 
 ## 🚀 Let's Build Something Great
