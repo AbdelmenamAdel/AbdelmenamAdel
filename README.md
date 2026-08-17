@@ -74,36 +74,22 @@
 
 <div align="center">
 
-  <table border="0">
-    <tr>
-      <td>
-        <a href="https://github.com/AbdelmenamAdel">
-          <img height="180" src="https://github-readme-stats.vercel.app/api?username=AbdelmenamAdel&show_icons=true&count_private=true&include_all_commits=true&theme=react&hide_border=true&bg_color=0D1117&title_color=2FBCF7&icon_color=2FBCF7&text_color=FFFFFF" alt="Abdelmoneim's GitHub Stats" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/AbdelmenamAdel">
-          <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelmenamAdel&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=2FBCF7&text_color=FFFFFF" alt="Abdelmoneim's Top Languages" />
-        </a>
-      </td>
-    </tr>
-  </table>
+<a href="https://github.com/AbdelmenamAdel">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdelmenamAdel&bg_color=0D1117&color=2FBCF7&line=2FBCF7&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Abdelmoneim's GitHub Activity Graph" />
+</a>
 
-  <br />
+<br /><br />
 
-  <a href="https://github.com/AbdelmenamAdel">
-    <img src="https://streak-stats.demolab.com?user=AbdelmenamAdel&theme=dark&hide_border=true&background=0D1117&ring=2FBCF7&fire=2FBCF7&currStreakLabel=2FBCF7" alt="Abdelmoneim's GitHub Streak" />
-  </a>
+<img src="https://github-readme-stats.vercel.app/api?username=AbdelmenamAdel&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 
 </div>
-
 ---
 
 ## 🚀 Let's Build Something Great
 
 <div align="center">
 
-### Have a product idea, need a senior Flutter engineer, or looking for someone to take ownership of your mobile application?
+### Have a product idea, need a Senior Flutter engineer, or looking for someone to take ownership of your mobile application?
 
 I'm open to **high-impact projects, product collaborations, and senior-level mobile engineering opportunities** with ambitious teams and companies.
 
