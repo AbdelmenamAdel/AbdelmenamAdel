@@ -1,21 +1,37 @@
 <div align="center">
 
-  # 💻 ABDELMONEIM ADEL
-  ### **Senior Flutter Developer • AI / ML Engineer • Technical Coding Instructor**
-  **Cairo, Egypt 🇪🇬 | +20 155 687 8109 | abdelmoneim.adel5@gmail.com**
+# 💻 ABDELMONEIM ADEL
 
-  <p align="center">
-    <a href="https://readme-typing-svg.herokuapp.com">
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Outfit&size=23&center=true&vCenter=true&width=700&height=50&duration=3500&lines=Hi+There!+👋+I'm+Abdelmoneim+Adel+!+😎;Mid-Level+Flutter+Developer+(3.5%2B+Years)+📱;AI%2FML+Engineer+--+B.Sc.+AI+(GPA+3.42+Honors)+🎓;Mobile+Application+Coach+@MCIT+(DEPI+Rounds+3+%26+4)+👨‍🏫;Architect+of+Athkary+(3K%2B+Users)+%26+DiaMate+🚀" alt="Typing SVG" />
-    </a>
-  </p>
+### Mid-Level Flutter Developer • AI/ML Engineer • Technical Coding Instructor
 
-  [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev)
-  [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
-  [![AI / ML](https://img.shields.io/badge/AI%2FML-Engine-1ABC9C?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-  [![Clean Architecture](https://img.shields.io/badge/Architecture-Clean_Architecture-emerald?style=for-the-badge)](https://flutter.dev)
-  [![BLoC / Cubit](https://img.shields.io/badge/State_Management-BLoC_/_Cubit-blueviolet?style=for-the-badge)](https://bloclibrary.dev)
-  [![MCIT Instructor](https://img.shields.io/badge/MCIT-Flutter_Coach-orange?style=for-the-badge)](https://mcit.gov.eg)
+**Egypt 🇪🇬 | Flutter • Dart • BLoC • Clean Architecture • AI/ML**
+
+<p align="center">
+  <a href="https://readme-typing-svg.herokuapp.com">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Outfit&size=23&center=true&vCenter=true&width=750&height=50&duration=3500&lines=Hi+There!+👋+I'm+Abdelmoneim+Adel!+😎;Mid-Level+Flutter+Developer+(3.5%2B+Years)+📱;AI%2FML+Engineer+%7C+B.Sc.+Artificial+Intelligence+🎓;Mobile+Application+Coach+%40+MCIT+(DEPI)+👨‍🏫;Building+Scalable+Mobile+Applications+%26+AI+Solutions+🚀" alt="Typing SVG" />
+  </a>
+</p>
+
+<p>
+  <a href="https://flutter.dev">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  </a>
+  <a href="https://dart.dev">
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  </a>
+  <a href="https://python.org">
+    <img src="https://img.shields.io/badge/AI%2FML-Engine-1ABC9C?style=for-the-badge&logo=python&logoColor=white" alt="AI/ML">
+  </a>
+  <a href="https://flutter.dev">
+    <img src="https://img.shields.io/badge/Architecture-Clean_Architecture-10B981?style=for-the-badge" alt="Clean Architecture">
+  </a>
+  <a href="https://bloclibrary.dev">
+    <img src="https://img.shields.io/badge/State_Management-BLoC_%2F_Cubit-6C3483?style=for-the-badge" alt="BLoC / Cubit">
+  </a>
+  <a href="https://mcit.gov.eg">
+    <img src="https://img.shields.io/badge/MCIT-Flutter_Coach-F97316?style=for-the-badge" alt="MCIT Instructor">
+  </a>
+</p>
 
 </div>
 
@@ -23,33 +39,33 @@
 
 ## 🚀 Executive Professional Summary
 
-Mid-Level **Flutter Developer & AI/ML Engineer** with **3.5+ years** (entering 4th year) shipping production cross-platform mobile apps to Google Play and Apple App Store. Holds a **B.Sc. in Artificial Intelligence & Data Science** from Benha University (**GPA 3.42 / 4.00, Very Good with Honors**). 
+Mid-Level **Flutter Developer & AI/ML Engineer** with **3.5+ years** (entering 4th year) shipping production cross-platform mobile applications to Google Play and Apple App Store. Holds a **B.Sc. in Artificial Intelligence & Data Science** from Benha University.
 
-Expert in the entire mobile stack — **Clean Architecture**, **Bloc/Cubit**, **REST APIs**, **Firebase**, **Supabase**, and **Offline-First Data Storage (Hive, SQLite)**. Proven track record in AI/ML integration including **LLMs (Gemini, Hugging Face, OpenAI)**, **RAG Pipelines**, **Containerization (Docker)**, and **Custom OCR / Computer Vision models**.
+Expert across the complete mobile software lifecycle — **Clean Architecture**, **Bloc/Cubit**, **REST APIs**, **Firebase**, **Supabase**, and **Offline-First Data Storage (Hive, SQLite)**. Proven expertise in integrating AI/ML models including **LLMs (Gemini, Hugging Face, OpenAI)**, **RAG Pipelines**, **Containerization (Docker)**, and **Custom Computer Vision / OCR Engines**.
 
 Twice awarded **Best Instructor at 3C Online Coding School** (Oct 2025 & Feb 2026), coached **DEPI Rounds 3 & 4** for Egypt's Ministry of Communications & IT (**98% and 100% trainee target achievement**), and mentored **70+ students** across GDSC Benha & Al-Azhar communities (~90% hired within 3 months).
 
 ---
 
-## 🏆 Key Achievements & Impact
+## 🏆 Key Achievements & Production Impact
 
 - 🥇 **DEPI MCIT Coach**: Round 3 (98% freelance target achievement), Round 4 (100% target achievement, with trainees far exceeding targets).
-- 📱 **Athkary App**: Live on Google Play with **~3,000 active users** — zero-dependency Hijri calendar engine, DST prayer times, 120 FPS performance, <1ms in-memory Quran search.
+- 📱 **Athkary App**: Live on Google Play with **~3,000 active users** — zero-dependency Hijri calendar engine, DST-aware prayer times, 120 FPS performance, <1ms in-memory Quran search.
 - 🎓 **DiaMate AI Health Platform**: Graduation project — trained custom AI model with RAG pipeline, Docker containerized, multi-modal OCR glucose screen scanner.
 - 💼 **Production CRM (Functo)**: Resolved critical failed-request bugs, refactored app architecture, and shipped feature-flag support — boosting user satisfaction by **~30%**.
-- 👨‍🏫 **Community Leader**: Trained 70+ students across GDSC Benha & Al-Azhar; ~90% secured tech roles within 3 months.
+- 👨‍🏫 **Technical Community Leader**: Mentored 70+ students across GDSC Benha & Al-Azhar; ~90% secured tech roles within 3 months.
 - 💰 **Easy Bio**: Solo-developed cross-platform app with native screen-capture protection for Android/iOS — **100% pure profit** on Google Play & App Store.
 
 ---
 
-## 🌟 Notable Featured Projects
+## 🌟 Featured & Flagship Projects
 
 <div align="center">
 
 | Project | Tech Stack | Key Architectural Highlights | Status / Impact |
 | :--- | :--- | :--- | :---: |
 | 📖 **[Athkary (أذكاري)](https://github.com/AbdelmenamAdel/Azkary)** | `Flutter` `Clean Arch` `SOLID` `get_it/injectable` `just_audio` `SQLite FTS5` | Clean Architecture (Presentation/Domain/Data), DDD. Built a zero-dependency Hijri calendar engine (Julian Day Number) & DST-aware prayer-time engine. Decoupled audio streaming (`just_audio`, RxDart event bus) with auto network recovery. Sustains **120 FPS** via RepaintBoundary. Dual-engine Arabic search: <1ms in-memory Quran lookup & SQLite FTS5 full-text indexing for Hadith with custom NLP diacritics stripping. | 🟢 **Live on Google Play (~3,000 Users)** |
-| 🍏 **[DiaMate](https://github.com/AbdelmenamAdel/Diamate)** | `Flutter` `Custom AI Model` `RAG` `Docker` `Bloc` `Hive` `Firebase` | **Graduation Project (High Honors)**. Feature-first Clean Architecture. Owned AI/ML end-to-end: built & trained custom AI model with RAG pipeline, containerized with Docker, deployed to trial servers. Multi-modal AI OCR glucometer screen reader, camera nutrition analysis, voice health logging, and offline-first Hive storage. | 🎓 **High Honors Project** |
+| 🍏 **[DiaMate](https://github.com/AbdelmenamAdel/Diamate)** | `Flutter` `Custom AI Model` `RAG` `Docker` `Bloc` `Hive` `Firebase` | Feature-first Clean Architecture. Owned AI/ML end-to-end: built & trained custom AI model with RAG pipeline, containerized with Docker, deployed to trial servers. Multi-modal AI OCR glucometer screen reader, camera nutrition analysis, voice health logging, and offline-first Hive storage. | 🎓 **Graduation Project** |
 | 🏫 **iTeach SaaS Ecosystem** | `Flutter` `Supabase` `PostgreSQL` `BLoC` `Hive` `RLS` | 3-app SaaS ecosystem (iTeach teacher CRM, iLearn student portal, iFollow parent tracker) sharing Supabase PostgreSQL backend with Row-Level Security. Offline-first attendance sync engine cutting requests into batched UPSERTs. Real-time Supabase WebSockets notifications, 6-month class scheduler algorithm, and PDF report generator with embedded Arabic fonts & QR check-in. | 🚀 **Production SaaS** |
 | 🌱 **[Green Minds](https://github.com/AbdelmenamAdel/GreenMindsMobile)** | `Flutter` `Cubit` `Dio` `Retrofit` `AutoRoute` `Lottie` | Gamified eco-learning & climate awareness platform for children and parents. Features "Watch & Earn" video streaming, 4 mini-games (Animal Zoo, Peter & Wizard, Trampoline, Fish Catch), points/coins leaderboard, and dual child/parent progress portals. | 📱 **Production App** |
 | 🔒 **[Easy Bio](https://github.com/AbdelmenamAdel/Easy-Bio)** | `Flutter` `REST API` `Native Android/iOS` `Screen Protection` | Cross-platform educational app for doctor's student base. Features secure auth, lesson delivery, and native screen-recording/capture prevention written in Android/iOS code. | 💰 **Live on Google Play & App Store (100% Profit)** |
@@ -103,7 +119,6 @@ Twice awarded **Best Instructor at 3C Online Coding School** (Oct 2025 & Feb 202
 - 🏛️ **Benha University — B.Sc. in Computers & Artificial Intelligence**
   - *Major*: Artificial Intelligence & Data Science
   - *Graduation Date*: May 2026
-  - *GPA*: **3.42 / 4.00** — Graduated with **Very Good Honors**
 
 ---
 
