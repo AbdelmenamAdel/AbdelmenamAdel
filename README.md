@@ -67,27 +67,6 @@
 
 </div>
 
----
-
-## 🛠️ Technical Arsenal
-
-<div align="center">
-
-### **Mobile & Cross-Platform**
-`Flutter` · `Dart` · `Android` · `iOS` · `Firebase` · `Firestore` · `FCM` · `Supabase` · `Local & Push Notifications`
-
-### **Architecture & State Management**
-`Clean Architecture` · `Bloc` · `Cubit` · `Provider` · `GetX` · `MVVM` · `MVC` · `SOLID Principles` · `Design Patterns`
-
-### **AI / ML & Cloud Infrastructure**
-`Machine Learning` · `Deep Learning` · `NLP (Transformers, BERT, Embeddings)` · `Generative AI` · `LLMs (Gemini, Hugging Face, OpenAI)` · `Prompt Engineering` · `RAG Pipelines` · `Docker` · `Computer Vision`
-
-### **Databases & Backends**
-`SQLite / Sqflite` · `Hive NoSQL` · `Supabase (PostgreSQL)` · `MySQL` · `SQL Server` · `Vector DBs` · `RESTful APIs` · `Dio` · `GraphQL` · `WebSockets`
-
-### **Tools & Languages**
-`Dart` · `Python` · `SQL` · `C++` · `Java` · `C#` · `Android Studio` · `VS Code` · `Figma` · `Git` · `GitHub` · `Postman`
-
 </div>
 
 ---
