@@ -117,7 +117,7 @@ I'm open to **high-impact projects, product collaborations, and senior-level mob
   <img src="https://img.shields.io/badge/💼_Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's Connect" />
 </a>
 
-<br /><br />
+<br />
 
 **Available for**
 
