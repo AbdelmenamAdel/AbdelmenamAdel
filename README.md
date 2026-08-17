@@ -70,47 +70,82 @@
 </div>
 
 ---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
- <a href="https://github.com/AbdelmenamAdel">
+  <table border="0">
+    <tr>
+      <td>
+        <a href="https://github.com/AbdelmenamAdel">
+          <img
+            height="180"
+            src="https://github-stats-extended.vercel.app/api?username=AbdelmenamAdel&show_icons=true&count_private=true&include_all_commits=true&theme=react&hide_border=true&bg_color=0D1117&title_color=2FBCF7&icon_color=2FBCF7&text_color=FFFFFF"
+            alt="Abdelmoneim's GitHub Stats"
+          />
+        </a>
+      </td>
+
+      <td>
+        <a href="https://github.com/AbdelmenamAdel">
+          <img
+            height="180"
+            src="https://github-stats-extended.vercel.app/api/top-langs/?username=AbdelmenamAdel&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=2FBCF7&text_color=FFFFFF"
+            alt="Abdelmoneim's Top Languages"
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <br />
+
+  <a href="https://github.com/AbdelmenamAdel">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=AbdelmenamAdel&bg_color=0D1117&color=2FBCF7&line=2FBCF7&point=FFFFFF&area=true&hide_border=true"
-      width="95%"
-      alt="Abdelmoneim Adel's GitHub Contribution Graph"
+      src="https://streak-stats.demolab.com?user=AbdelmenamAdel&theme=dark&hide_border=true&background=0D1117&ring=2FBCF7&fire=2FBCF7&currStreakLabel=2FBCF7"
+      alt="Abdelmoneim's GitHub Streak"
     />
   </a>
 
-<br /><br />
+</div>
 
-
-<img src="https://github-stats-extended.vercel.app/api?username=AbdelmenamAdel&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="Abdelmoneim's GitHub Stats" />
 ---
 
 ## 🚀 Let's Build Something Great
 
 <div align="center">
 
-### Have a product idea, need a Senior Flutter engineer, or looking for someone to take ownership of your mobile application?
+### Have a product idea, need a senior Flutter engineer, or looking for someone to take ownership of your mobile application?
 
 I'm open to **high-impact projects, product collaborations, and senior-level mobile engineering opportunities** with ambitious teams and companies.
 
 <br />
 
 <a href="mailto:abdelmoneim.adel5@gmail.com">
-  <img src="https://img.shields.io/badge/📩_Start_a_Project-007ACC?style=for-the-badge&logoColor=white" alt="Start a Project" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/abdelmoneim-adel">
-  <img src="https://img.shields.io/badge/💼_Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's Connect" />
+  <img
+    src="https://img.shields.io/badge/📩_Start_a_Project-007ACC?style=for-the-badge&logoColor=white"
+    alt="Start a Project"
+  />
 </a>
 
-<br />
+&nbsp;
+
+<a href="https://www.linkedin.com/in/abdelmoneim-adel">
+  <img
+    src="https://img.shields.io/badge/💼_Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="Let's Connect"
+  />
+</a>
+
+<br /><br />
 
 **Available for**
 
-`🚀 Flutter Development`   `🏗️ Mobile Architecture`   `🤖 AI-Powered Apps`   `🤝 Technical Collaboration`
+`🚀 Flutter Development` &nbsp;
+`🏗️ Mobile Architecture` &nbsp;
+`🤖 AI-Powered Apps` &nbsp;
+`🤝 Technical Collaboration`
 
 </div>
 
@@ -121,23 +156,38 @@ I'm open to **high-impact projects, product collaborations, and senior-level mob
 <div align="center">
 
   <a href="https://www.linkedin.com/in/abdelmoneim-adel" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
 
   <a href="mailto:abdelmoneim.adel5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img
+      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
 
   <a href="https://github.com/AbdelmenamAdel" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
 
   <a href="https://linktr.ee/Abdelmoneim_Adel" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Portfolio" />
+    <img
+      src="https://img.shields.io/badge/Portfolio-39E09B?style=for-the-badge&logo=linktree&logoColor=white"
+      alt="Portfolio"
+    />
   </a>
 
   <a href="https://www.youtube.com/@abdelmoneim.adel5" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img
+      src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+      alt="YouTube"
+    />
   </a>
 
 </div>
@@ -146,10 +196,16 @@ I'm open to **high-impact projects, product collaborations, and senior-level mob
 
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=AbdelmenamAdel&style=flat-square&color=007ACC" alt="Profile Views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=AbdelmenamAdel&style=flat-square&color=007ACC"
+    alt="Profile Views"
+  />
 
   <a href="https://github.com/AbdelmenamAdel?tab=followers">
-    <img src="https://img.shields.io/github/followers/AbdelmenamAdel?label=Followers&style=flat-square&color=007ACC" alt="GitHub Followers" />
+    <img
+      src="https://img.shields.io/github/followers/AbdelmenamAdel?label=Followers&style=flat-square&color=007ACC"
+      alt="GitHub Followers"
+    />
   </a>
 
 </div>
