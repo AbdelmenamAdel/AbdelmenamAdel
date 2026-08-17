@@ -2,13 +2,13 @@
 
 # 💻 ABDELMONEIM ADEL
 
-### Mid-Level Flutter Developer • AI/ML Engineer • Technical Coding Instructor
+### Senior Flutter Engineer • AI / ML Specialist • Technical Instructor
 
-**Egypt 🇪🇬 | Flutter • Dart • BLoC • Clean Architecture • AI/ML**
+**Egypt 🇪🇬 | Building Scalable Cross-Platform Ecosystems & AI Solutions**
 
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Outfit&size=23&center=true&vCenter=true&width=750&height=50&duration=3500&lines=Hi+There!+👋+I'm+Abdelmoneim+Adel!+😎;Mid-Level+Flutter+Developer+(3.5%2B+Years)+📱;AI%2FML+Engineer+%7C+B.Sc.+Artificial+Intelligence+🎓;Mobile+Application+Coach+%40+MCIT+(DEPI)+👨‍🏫;Building+Scalable+Mobile+Applications+%26+AI+Solutions+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Outfit&size=23&center=true&vCenter=true&width=750&height=50&duration=3500&lines=Hi+There!+👋+I'm+Abdelmoneim+Adel!+🚀;Senior+Flutter+Engineer+%26+Mobile+Architect+📱;AI%2FML+Specialist+%26+Systems+Architect+🤖;Mobile+Application+Coach+%40+MCIT+(DEPI)+👨‍🏫;Architect+of+Athkary+(3K%2B+Users)+%26+DiaMate+⚡" alt="Typing SVG" />
   </a>
 </p>
 
@@ -37,88 +37,40 @@
 
 ---
 
-## 🚀 Executive Professional Summary
+## ⚡ Executive Summary
 
-Mid-Level **Flutter Developer & AI/ML Engineer** with **3.5+ years** (entering 4th year) shipping production cross-platform mobile applications to Google Play and Apple App Store. Holds a **B.Sc. in Artificial Intelligence & Data Science** from Benha University.
+Senior Mobile Engineer & AI Specialist specializing in high-performance **Flutter**, **Dart**, and **Artificial Intelligence**. Expert in designing production-grade cross-platform applications with **Clean Architecture**, **BLoC / Cubit**, **Offline-First Engines (Hive, SQLite)**, and **Multi-Provider AI & RAG Pipelines**. 
 
-Expert across the complete mobile software lifecycle — **Clean Architecture**, **Bloc/Cubit**, **REST APIs**, **Firebase**, **Supabase**, and **Offline-First Data Storage (Hive, SQLite)**. Proven expertise in integrating AI/ML models including **LLMs (Gemini, Hugging Face, OpenAI)**, **RAG Pipelines**, **Containerization (Docker)**, and **Custom Computer Vision / OCR Engines**.
-
-Twice awarded **Best Instructor at 3C Online Coding School** (Oct 2025 & Feb 2026), coached **DEPI Rounds 3 & 4** for Egypt's Ministry of Communications & IT (**98% and 100% trainee target achievement**), and mentored **70+ students** across GDSC Benha & Al-Azhar communities (~90% hired within 3 months).
+Technical Instructor & Mobile Application Coach @ **Ministry of Communications & Information Technology (MCIT)**, coaching state-sponsored initiatives (DEPI) and mentoring developers across international programs.
 
 ---
 
-## 🏆 Key Achievements & Production Impact
+## 🏆 Impact & Key Achievements
 
-- 🥇 **DEPI MCIT Coach**: Round 3 (98% freelance target achievement), Round 4 (100% target achievement, with trainees far exceeding targets).
-- 📱 **Athkary App**: Live on Google Play with **~3,000 active users** — zero-dependency Hijri calendar engine, DST-aware prayer times, 120 FPS performance, <1ms in-memory Quran search.
-- 🎓 **DiaMate AI Health Platform**: Graduation project — trained custom AI model with RAG pipeline, Docker containerized, multi-modal OCR glucose screen scanner.
-- 💼 **Production CRM (Functo)**: Resolved critical failed-request bugs, refactored app architecture, and shipped feature-flag support — boosting user satisfaction by **~30%**.
-- 👨‍🏫 **Technical Community Leader**: Mentored 70+ students across GDSC Benha & Al-Azhar; ~90% secured tech roles within 3 months.
-- 💰 **Easy Bio**: Solo-developed cross-platform app with native screen-capture protection for Android/iOS — **100% pure profit** on Google Play & App Store.
+- 📱 **Athkary (أذكاري)**: Live on Google Play with **~3,000 active users** — zero-dependency Hijri calendar engine, DST-aware prayer calculations, 120 FPS performance, <1ms in-memory Quran search.
+- 🎓 **DiaMate AI Platform**: Multi-provider AI healthcare engine (Gemini, Groq, DeepSeek), custom RAG pipeline, Docker containerization, and OCR glucometer reading scanner.
+- 🥇 **DEPI MCIT Coach**: Coached national rounds with **98% & 100% trainee target achievement** in freelance & mobile development strategy.
+- 🏫 **iTeach SaaS Ecosystem**: Multi-app SaaS suite (iTeach, iLearn, iFollow) with Supabase PostgreSQL RLS, offline-first attendance sync, and WebSocket notifications.
+- 💰 **Easy Bio**: Solo-developed cross-platform app featuring native Android & iOS screen-capture protection — **100% profit app** live on Google Play & App Store.
 
 ---
 
-## 🌟 Featured & Flagship Projects
+## 🌟 Flagship Projects
 
 <div align="center">
 
-| Project | Tech Stack | Key Architectural Highlights | Status / Impact |
+| Project | Stack | Architectural Highlights | Status |
 | :--- | :--- | :--- | :---: |
-| 📖 **[Athkary (أذكاري)](https://github.com/AbdelmenamAdel/Azkary)** | `Flutter` `Clean Arch` `SOLID` `get_it/injectable` `just_audio` `SQLite FTS5` | Clean Architecture (Presentation/Domain/Data), DDD. Built a zero-dependency Hijri calendar engine (Julian Day Number) & DST-aware prayer-time engine. Decoupled audio streaming (`just_audio`, RxDart event bus) with auto network recovery. Sustains **120 FPS** via RepaintBoundary. Dual-engine Arabic search: <1ms in-memory Quran lookup & SQLite FTS5 full-text indexing for Hadith with custom NLP diacritics stripping. | 🟢 **Live on Google Play (~3,000 Users)** |
-| 🍏 **[DiaMate](https://github.com/AbdelmenamAdel/Diamate)** | `Flutter` `Custom AI Model` `RAG` `Docker` `Bloc` `Hive` `Firebase` | Feature-first Clean Architecture. Owned AI/ML end-to-end: built & trained custom AI model with RAG pipeline, containerized with Docker, deployed to trial servers. Multi-modal AI OCR glucometer screen reader, camera nutrition analysis, voice health logging, and offline-first Hive storage. | 🎓 **Graduation Project** |
-| 🏫 **iTeach SaaS Ecosystem** | `Flutter` `Supabase` `PostgreSQL` `BLoC` `Hive` `RLS` | 3-app SaaS ecosystem (iTeach teacher CRM, iLearn student portal, iFollow parent tracker) sharing Supabase PostgreSQL backend with Row-Level Security. Offline-first attendance sync engine cutting requests into batched UPSERTs. Real-time Supabase WebSockets notifications, 6-month class scheduler algorithm, and PDF report generator with embedded Arabic fonts & QR check-in. | 🚀 **Production SaaS** |
-| 🌱 **[Green Minds](https://github.com/AbdelmenamAdel/GreenMindsMobile)** | `Flutter` `Cubit` `Dio` `Retrofit` `AutoRoute` `Lottie` | Gamified eco-learning & climate awareness platform for children and parents. Features "Watch & Earn" video streaming, 4 mini-games (Animal Zoo, Peter & Wizard, Trampoline, Fish Catch), points/coins leaderboard, and dual child/parent progress portals. | 📱 **Production App** |
-| 🔒 **[Easy Bio](https://github.com/AbdelmenamAdel/Easy-Bio)** | `Flutter` `REST API` `Native Android/iOS` `Screen Protection` | Cross-platform educational app for doctor's student base. Features secure auth, lesson delivery, and native screen-recording/capture prevention written in Android/iOS code. | 💰 **Live on Google Play & App Store (100% Profit)** |
-| 💬 **Mogha** | `Flutter` `Firebase` `Firestore` `MVVM` `Cubit` | Full-featured social media platform with real-time text, image & video chat, story sharing, localization, and theme customization. | 📱 **Portfolio App** |
-| 🚌 **[Tramini](https://github.com/AbdelmenamAdel)** | `Flutter` `Google Gemini` `Hugging Face` `LLM` `Diffusion` | AI-powered transport & multi-tool app featuring AI chatbot, text-to-image generation, Google Maps route optimization, and 12-language translation via LLM & diffusion models. | 🤖 **AI Integrated** |
-| 📋 **[Up To Do](https://github.com/AbdelmenamAdel)** | `Flutter` `Hive NoSQL` `Local Notifications` `Focus Engine` | Minimalist productivity app featuring smart task categories, priority matrices, Pomodoro focus mode timer, scheduled local alarms, and Hive offline-first storage. | 📱 **Production App** |
+| 📖 **[Athkary (أذكاري)](https://github.com/AbdelmenamAdel/Azkary)** | `Flutter` `Clean Arch` `SOLID` `get_it` `just_audio` `SQLite FTS5` | Clean Architecture & DDD. Built zero-dependency Hijri calendar & DST prayer-time engine. Decoupled audio streaming with auto network recovery. 120 FPS performance via RepaintBoundary. <1ms Quran lookup & SQLite FTS5 Hadith search with diacritics stripping. | 🟢 **Live (~3,000 Users)** |
+| 🍏 **[DiaMate](https://github.com/AbdelmenamAdel/Diamate)** | `Flutter` `Custom AI Model` `RAG` `Docker` `Bloc` `Hive` `Firebase` | Feature-first Clean Architecture. Custom-trained AI model with RAG pipeline, Docker containerization, multi-modal OCR glucometer screen reader, camera nutrition analysis, and offline-first Hive storage. | 🎓 **Flagship AI App** |
+| 🏫 **iTeach SaaS Ecosystem** | `Flutter` `Supabase` `PostgreSQL` `BLoC` `Hive` `RLS` | 3-app SaaS ecosystem (iTeach teacher CRM, iLearn student portal, iFollow parent tracker) sharing Supabase backend with Row-Level Security. Offline-first attendance sync engine cutting requests to batched UPSERTs. | 🚀 **Production SaaS** |
+| 🌱 **[Green Minds](https://github.com/AbdelmenamAdel/GreenMindsMobile)** | `Flutter` `Cubit` `Dio` `Retrofit` `AutoRoute` `Lottie` | Gamified eco-learning platform for children and parents. Features "Watch & Earn" video streaming, 4 mini-arcade games, points/coins leaderboard, and dual child/parent portals. | 📱 **Production App** |
+| 🔒 **[Easy Bio](https://github.com/AbdelmenamAdel/Easy-Bio)** | `Flutter` `REST API` `Native Android/iOS` `Screen Protection` | Cross-platform app for educational delivery. Features secure auth, lesson delivery, and native screen-recording/capture prevention in Android/iOS code. | 💰 **Live Store App** |
+| 💬 **Mogha** | `Flutter` `Firebase` `Firestore` `MVVM` `Cubit` | Full-featured social media platform with real-time text, image & video chat, story sharing, localization, and theme customization. | 📱 **Featured App** |
+| 🚌 **[Tramini](https://github.com/AbdelmenamAdel)** | `Flutter` `Google Gemini` `Hugging Face` `LLM` `Diffusion` | AI-powered transport & multi-tool app featuring AI chatbot, text-to-image generation, Google Maps route optimization, and 12-language translation. | 🤖 **AI Integrated** |
+| 📋 **[Up To Do](https://github.com/AbdelmenamAdel)** | `Flutter` `Hive NoSQL` `Local Notifications` `Focus Engine` | Minimalist productivity app featuring smart task categories, priority matrices, Pomodoro focus mode timer, scheduled local alarms, and Hive offline storage. | 📱 **Production App** |
 
 </div>
-
----
-
-## 💼 Work Experience
-
-#### 📱 **Mobile Application Coach** | Ministry of Communications & IT (MCIT) — DEPI Program
-*Oct 2025 – Present | Egypt*
-- Coaching Rounds 3 & 4 of Egypt's national Digital Egypt Pioneers Initiative (DEPI).
-- Mentoring aspiring mobile developers in Flutter, Clean Architecture, and freelance strategy.
-- **Round 3**: 98% of trainees achieved their freelance target. **Round 4**: 100% target achievement (several far exceeding goals).
-
-#### 💻 **Programming Instructor** | RoboPanda (Malaysia)
-*Jun 2026 – Aug 2026 | Remote Contract*
-- Delivered a 2-month intensive programming course to international students at RoboPanda (Malaysia).
-
-#### 🎓 **Coding Instructor** | 3C Online Coding School (UAE)
-*Jun 2025 – Present | Hybrid Part-Time*
-- Teaching Flutter, AI/ML concepts, Python, and Web Development in English.
-- Recognized as **Best Instructor of Oct 2025 & Feb 2026**; selected to record 2 complete video courses for DECI.
-
-#### ⚙️ **Intermediate Flutter Developer** | Functo Software House (Egypt)
-*Feb 2025 – Oct 2025 | Remote Full-Time*
-- **Deal System (CRM App)**: Fixed failed-request bugs, refactored app architecture, shipped feature-flag support, multi-lead/multi-number assignment, and Hive offline support — driving a **~30% boost in user satisfaction**.
-- **Marketplace App**: Built user profile & order tracking modules, integrated multi-language localization, and delivered ahead of schedule.
-
-#### 👨‍🏫 **Flutter Instructor** | Under Control (Oman)
-*Jun 2024 – Aug 2024 | Hybrid*
-- Trained computer science graduates in Oman in Flutter development to prepare them as assistant instructors.
-
-#### 🤝 **Core-Team Flutter Developer** | GDSC Benha University & Al-Azhar Community
-*Oct 2023 – Aug 2024 | Volunteer*
-- Trained **70+ Flutter students** across both communities; **~90% secured tech jobs within 3 months**.
-
-#### 🚀 **Mentor Instructor & Mobile Developer** | Freelance & Private Clients
-*Sep 2025 – Present | Remote*
-- Guided students 1-on-1 from fundamentals to production Flutter & Python developers.
-- Shipped 4+ production-ready Flutter applications for international freelance clients.
-
----
-
-## 🎓 Education
-
-- 🏛️ **Benha University — B.Sc. in Computers & Artificial Intelligence**
-  - *Major*: Artificial Intelligence & Data Science
-  - *Graduation Date*: May 2026
 
 ---
 
@@ -130,15 +82,15 @@ Twice awarded **Best Instructor at 3C Online Coding School** (Oct 2025 & Feb 202
 `Flutter` · `Dart` · `Android` · `iOS` · `Firebase` · `Firestore` · `FCM` · `Supabase` · `Local & Push Notifications`
 
 ### **Architecture & State Management**
-`Clean Architecture` · `Bloc` · `Cubit` · `Provider` · `GetX` · `MVVM` · `MVC` · `SOLID Principles` · `Design Patterns` · `SDLC`
+`Clean Architecture` · `Bloc` · `Cubit` · `Provider` · `GetX` · `MVVM` · `MVC` · `SOLID Principles` · `Design Patterns`
 
-### **Artificial Intelligence & Data Science**
-`Machine Learning` · `Deep Learning` · `NLP (TFIDF, Embeddings, Transformers, BERT)` · `Recommender Systems` · `Computer Vision` · `Generative AI` · `LLMs (Gemini, Hugging Face, OpenAI)` · `Prompt Engineering` · `RAG Pipelines` · `Docker` · `Scikit-learn` · `Pandas` · `NumPy`
+### **AI / ML & Cloud Infrastructure**
+`Machine Learning` · `Deep Learning` · `NLP (Transformers, BERT, Embeddings)` · `Generative AI` · `LLMs (Gemini, Hugging Face, OpenAI)` · `Prompt Engineering` · `RAG Pipelines` · `Docker` · `Computer Vision`
 
 ### **Databases & Backends**
-`SQLite / Sqflite` · `Hive NoSQL` · `Supabase (PostgreSQL)` · `MySQL` · `SQL Server` · `Oracle` · `Vector DBs` · `RESTful APIs` · `Dio` · `GraphQL` · `FastAPI` · `WebSockets`
+`SQLite / Sqflite` · `Hive NoSQL` · `Supabase (PostgreSQL)` · `MySQL` · `SQL Server` · `Vector DBs` · `RESTful APIs` · `Dio` · `GraphQL` · `WebSockets`
 
-### **Dev Tools & Languages**
+### **Tools & Languages**
 `Dart` · `Python` · `SQL` · `C++` · `Java` · `C#` · `Android Studio` · `VS Code` · `Figma` · `Git` · `GitHub` · `Postman`
 
 </div>
@@ -209,5 +161,5 @@ Twice awarded **Best Instructor at 3C Online Coding School** (Oct 2025 & Feb 202
 </div>
 
 <h3 align="center">
-  <i>"Passionate about building elegant digital solutions & empowering developers!" 🚀</i>
+  <i>"Building high-impact digital products & empowering software engineers worldwide!" 🚀</i>
 </h3>
