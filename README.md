@@ -74,40 +74,22 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
+ <a href="https://github.com/AbdelmenamAdel">
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=AbdelmenamAdel&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=2FBCF7&icon_color=2FBCF7&text_color=FFFFFF"
+      alt="Abdelmoneim Adel's GitHub Stats"
+    />
+  </a>
 
-  <table border="0">
-    <tr>
-      <td>
-        <a href="https://github.com/AbdelmenamAdel">
-          <img
-            height="180"
-            src="https://github-stats-extended.vercel.app/api?username=AbdelmenamAdel&show_icons=true&count_private=true&include_all_commits=true&theme=react&hide_border=true&bg_color=0D1117&title_color=2FBCF7&icon_color=2FBCF7&text_color=FFFFFF"
-            alt="Abdelmoneim's GitHub Stats"
-          />
-        </a>
-      </td>
-
-      <td>
-        <a href="https://github.com/AbdelmenamAdel">
-          <img
-            height="180"
-            src="https://github-stats-extended.vercel.app/api/top-langs/?username=AbdelmenamAdel&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=2FBCF7&text_color=FFFFFF"
-            alt="Abdelmoneim's Top Languages"
-          />
-        </a>
-      </td>
-    </tr>
-  </table>
-
+  <br />
   <br />
 
   <a href="https://github.com/AbdelmenamAdel">
     <img
-      src="https://streak-stats.demolab.com?user=AbdelmenamAdel&theme=dark&hide_border=true&background=0D1117&ring=2FBCF7&fire=2FBCF7&currStreakLabel=2FBCF7"
-      alt="Abdelmoneim's GitHub Streak"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=AbdelmenamAdel&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=2FBCF7&text_color=FFFFFF"
+      alt="Abdelmoneim Adel's Top Languages"
     />
   </a>
-
 </div>
 
 ---
