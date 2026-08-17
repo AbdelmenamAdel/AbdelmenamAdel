@@ -80,6 +80,8 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AbdelmenamAdel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelmenamAdel&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+</div>
+
 ---
 
 ## 🚀 Let's Build Something Great
@@ -108,7 +110,7 @@ I'm open to **high-impact projects, product collaborations, and senior-level mob
   />
 </a>
 
-<br /><br />
+<br />
 
 **Available for**
 
